@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botweb/__init__.py
+botweb/__main__.py
+botweb/bot.py
+botweb.egg-info/PKG-INFO
+botweb.egg-info/SOURCES.txt
+botweb.egg-info/dependency_links.txt
+botweb.egg-info/requires.txt
+botweb.egg-info/top_level.txt
+botweb/resources/start.png
